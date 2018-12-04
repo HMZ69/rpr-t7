@@ -1,0 +1,2 @@
+Sarajevo,5.4,15.8,2.3,0.44,-1.1
+String newline = System.getProperty("line.separator");
